@@ -116,7 +116,7 @@ Epic Traffic Bot - это мощный инструмент, который со
 
 # оплата по Q коду
 
-
+![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/Q.png)
 
 
 
