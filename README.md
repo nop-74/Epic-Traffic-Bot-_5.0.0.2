@@ -8,7 +8,7 @@
 ## Введение
 
 Epic Traffic Bot - это мощный инструмент, который создает реальные посещения, запуская реальные экземпляры браузера, которые взаимодействуют с веб-сайтами точно так же, как это делали бы обычные пользователи. В отличие от инструментов моделирования, которые просто отправляют HTTP-запросы, этот бот генерирует аутентичный трафик, неотличимый от реальных посетителей аналитических платформ, поисковых систем и владельцев веб-сайтов.
-
+![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main.png)
 
 
 ## Особенности
@@ -20,6 +20,15 @@ Epic Traffic Bot - это мощный инструмент, который со
 - Собственные события браузера (движения мыши, ввод с клавиатуры)
 - Полный рендеринг браузера (JavaScript, CSS, мультимедиа)
 - Случайная генерация отпечатков пальцев браузера для защиты от обнаружения
+
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main1.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main2.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main3.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main4.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main5.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main6.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main7.png)
+- ![Alt text](https://github.com/nop-74/Epic-Traffic-Bot-_5.0.0.2/blob/main/main8.png)
 
 ### Распределение трафика между несколькими сайтами
 - Одновременная генерация трафика между несколькими сайтами
